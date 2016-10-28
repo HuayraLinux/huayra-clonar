@@ -1,5 +1,5 @@
 <div class="modal-header">
-  <h4 class="modal-title">SELECT A DRIVE</h4>
+  <h4 class="modal-title">ELEGIR UNA UNIDAD</h4>
   <button class="close" ng-click="modal.closeModal()">&times;</button>
 </div>
 
@@ -22,12 +22,12 @@
             <span class="label label-danger"
               ng-hide="modal.state.isDriveLargeEnough(drive)">
                 <i class="glyphicon glyphicon-resize-small"></i>
-                TOO SMALL FOR IMAGE</span>
+                ESPACIO INSUFICIENTE</span>
 
             <span class="label label-danger"
               ng-show="modal.state.isDriveLocked(drive) && modal.state.isDriveLargeEnough(drive)">
                 <i class="glyphicon glyphicon-lock"></i>
-                LOCKED</span>
+                SOLO LECTURA</span>
 
           </footer>
         </div>
@@ -41,5 +41,5 @@
 <div class="modal-footer">
   <button class="btn btn-primary btn-block"
     ng-click="modal.closeModal()"
-    ng-disabled="!modal.state.hasDrive()">CONTINUE</button>
+    ng-disabled="!modal.state.hasDrive()">CONTINUAR</button>
 </div>

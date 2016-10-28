@@ -80,12 +80,12 @@ body {
 
   position: fixed;
   bottom: 20px;
-  left: 0;
+  left: -33px;
   right: 0;
   color: $color-disabled;
   margin: 0 60px;
   padding-top: 15px;
-  border-top: 2px solid darken($color-disabled, 8%);
+  //border-top: 2px solid darken($color-disabled, 8%);
 
   // Override default column padding
   // set by flexboxgrid.

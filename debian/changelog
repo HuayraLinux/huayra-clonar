@@ -1,3 +1,15 @@
+huayra-clonar (0.0.3) unstable; urgency=medium
+
+  * git add bower_components
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Fri, 28 Oct 2016 15:21:15 -0300
+
+huayra-clonar (0.0.2) unstable; urgency=medium
+
+  * prueba empaquetado 1
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Fri, 28 Oct 2016 15:02:32 -0300
+
 huayra-clonar (0.0.1) unstable; urgency=medium
 
   * Versión inicial.
