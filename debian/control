@@ -1,0 +1,15 @@
+Source: huayra-clonar
+Section: huayra
+Priority: extra
+Maintainer: Diego Accorinti <diegoacco@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), 
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-clonar
+Vcs-Browser: https://github.com/HuayraLinux/huayra-clonar
+Vcs-Git: https://github.com/HuayraLinux/huayra-clonar.git
+
+Package: huayra-clonar
+Architecture: all
+Depends: ${misc:Depends}, electron,
+Description: Huayra-clonar te permite crear un pen-drive con Huayra
+   para usar en modo live-usb e instalar Huayra en otras computadoras.

@@ -1,0 +1,10 @@
+package.json /usr/share/electron/resources/huayra-clonar
+bower_components/* /usr/share/electron/resources/huayra-clonar/bower_components
+build/* /usr/share/electron/resources/huayra-clonar/build
+lib/* /usr/share/electron/resources/huayra-clonar/lib
+node_modules/* /usr/share/electron/resources/huayra-clonar/node_modules
+README.md /usr/share/electron/resources/huayra-clonar
+
+
+debian/huayra-clonar.desktop /usr/share/applications
+debian/huayra-clonar.svg /usr/share/icons/hicolor/scalable/apps
