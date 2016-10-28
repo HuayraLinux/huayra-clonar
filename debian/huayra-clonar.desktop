@@ -4,10 +4,10 @@
 Version=0.1.0
 Name=huayra-clonar
 Comment=Creá tu pen-drive con Huayra
-Exec="electron /usr/share/electron/resources/huayra-clonar"
+Exec=electron /usr/share/electron/resources/huayra-clonar
 Terminal=false
 Type=Application
 Icon=huayra-clonar
 Categories=GNOME;GTK;Huayra;
 Keywords=live-cd;pendrive;iso;
-Name[es_AR]=huayra-clonar.desktop
+Name[es_AR]=Huayra-Clonar
