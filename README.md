@@ -14,22 +14,30 @@ Huayra-clonar es software libre distribuido bajo licencia GPL [license](https://
 
 
 
-*Instrucciones para Compilar y empaquetar en Huayra*
+Instrucciones para Compilar
+---------------------------
 
 Para compilar correctamente la aplicación se deberan realizar los siguientes pasos:
 
 1- exportar las siguientes variables:
 
 export npm_config_target=1.4.4
+
 export npm_config_arch=x64
+
 export npm_config_target_arch=x64
+
 export npm_config_disturl=https://atom.io/download/atom-shell
+
 export npm_config_runtime=electron
+
 export npm_config_build_from_source=true
+
 
 2- ejecutar el comando:
 
 npm install --save-dev electron-rebuild
+
 
 3- ejecutar: 
 
@@ -47,7 +55,9 @@ $ npm prune --production
 
  5- Listo!
 
-*Empaquetado Debian*
+
+Empaquetado Debian
+------------------
 
 El paquete deberá instalar los siguientes directorios y el archivo "package.json" en la ruta:
 
