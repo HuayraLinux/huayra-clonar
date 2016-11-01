@@ -4,6 +4,16 @@ build/* /usr/share/electron/resources/huayra-clonar/build
 lib/* /usr/share/electron/resources/huayra-clonar/lib
 node_modules/* /usr/share/electron/resources/huayra-clonar/node_modules
 README.md /usr/share/electron/resources/huayra-clonar
+appveyor.yml /usr/share/electron/resources/huayra-clonar
+assets/* /usr/share/electron/resources/huayra-clonar/assets
+bin/* /usr/share/electron/resources/huayra-clonar/bin
+bower.json /usr/share/electron/resources/huayra-clonar
+docs/* /usr/share/electron/resources/huayra-clonar/docs
+gulpfile.js /usr/share/electron/resources/huayra-clonar
+npm-shrinkwrap.json /usr/share/electron/resources/huayra-clonar
+release/* /usr/share/electron/resources/huayra-clonar/release
+scripts/* /usr/share/electron/resources/huayra-clonar/scripts
+tests/* /usr/share/electron/resources/huayra-clonar/tests
 
 
 debian/huayra-clonar.desktop /usr/share/applications
