@@ -11,7 +11,6 @@ bower.json /usr/share/electron/resources/huayra-clonar
 docs/* /usr/share/electron/resources/huayra-clonar/docs
 gulpfile.js /usr/share/electron/resources/huayra-clonar
 npm-shrinkwrap.json /usr/share/electron/resources/huayra-clonar
-release/* /usr/share/electron/resources/huayra-clonar/release
 scripts/* /usr/share/electron/resources/huayra-clonar/scripts
 tests/* /usr/share/electron/resources/huayra-clonar/tests
 
