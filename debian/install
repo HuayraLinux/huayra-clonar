@@ -13,7 +13,7 @@ gulpfile.js /usr/share/electron/resources/huayra-clonar
 npm-shrinkwrap.json /usr/share/electron/resources/huayra-clonar
 scripts/* /usr/share/electron/resources/huayra-clonar/scripts
 tests/* /usr/share/electron/resources/huayra-clonar/tests
-
+debian/huayra-desktop /usr/bin
 
 debian/huayra-clonar.desktop /usr/share/applications
 debian/huayra-clonar.svg /usr/share/icons/hicolor/scalable/apps

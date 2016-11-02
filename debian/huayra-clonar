@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /usr/share/electron/resourses/huayra-clonar
+electron .
+

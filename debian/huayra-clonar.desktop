@@ -4,7 +4,7 @@
 Version=0.1.0
 Name=huayra-clonar
 Comment=Creá tu pen-drive con Huayra
-Exec=electron /usr/share/electron/resources/huayra-clonar
+Exec=huayra-clonar
 Terminal=false
 Type=Application
 Icon=huayra-clonar
