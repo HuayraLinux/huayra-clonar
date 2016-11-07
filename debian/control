@@ -10,6 +10,6 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-clonar.git
 
 Package: huayra-clonar
 Architecture: all
-Depends: ${misc:Depends}, electron,
+Depends: ${misc:Depends}, electron, gksu,
 Description: Huayra-clonar te permite crear un pen-drive con Huayra
    para usar en modo live-usb e instalar Huayra en otras computadoras.
